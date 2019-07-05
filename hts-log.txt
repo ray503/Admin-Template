@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Jul 2019 22:06:04 at https://www.radixtouch.in/templates/admin/atrio/source/lighthr/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.radixtouch.in/templates/admin/atrio/source/lighthr/index.html -O1 "C:\Users\Muriuki\Desktop\Munene website templates\EMPLOYEE HR MANAGEMENT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/fonts/Simple-Line-Icons.eot?v=2.4.0 (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/fonts/Simple-Line-Icons.woff2?v=2.4.0 (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/fonts/Simple-Line-Icons.ttf?v=2.4.0 (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/fonts/Simple-Line-Icons.woff?v=2.4.0 (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/fonts/Simple-Line-Icons.svg?v=2.4.0 (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:12:50	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/owl.video.play.png (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/app.min.css)
+22:13:09	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/images/user-img-background.jpg (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/css/style.css)
+22:13:09	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/dashboard/index.html (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/dashboard/dashboard2.html)
+22:13:09	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/attendance/edit-leave.html (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/attendance/today-attend.html)
+22:13:09	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/assets/images/invoice_logo.png (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/payroll/payslip.html)
+22:13:09	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/job/edit-leave.html (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/job/requirement-list.html)
+22:13:12	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/email/mail-inbox.html (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/email/inbox.html)
+22:13:12	Error: 	"Not Found" (404) at link https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/apps/index.html (from https://www.radixtouch.in/templates/admin/atrio/source/lighthr/pages/apps/calendar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 16 seconds : 351 links scanned, 337 files written (28089793 bytes overall) [21747760 bytes received at 49880 bytes/sec], 7686987 bytes transferred using HTTP compression in 106 files, ratio 15%, 2.5 requests per connection
+(13 errors, 0 warnings, 0 messages)
